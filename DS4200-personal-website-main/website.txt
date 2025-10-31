@@ -1,0 +1,11 @@
+Website Link: https://hariniavula.github.io/DS4200-personal-website/
+
+Pages: 
+1. Home Page 
+2. About Page (includes contact info)
+3. Project Page 
+
+Styling and Customizations: 
+1. Custom Typography - Georgia, added varied font sizes
+2. Custom Colors - beige background color, dark gray yext, green and blue accent colors 
+3. Layout & Spacing - CSS layouts (grid), margins and padding, fixed navigation bar, responsive design 
