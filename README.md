@@ -1,5 +1,5 @@
-**HW 3 Submission for DS 4200 - OCT 31, 2025 
-**
+HW 3 Submission for DS 4200 - OCT 31, 2025 
+
 
 Folders 
 1. DS4200-personal-website: includes part 1 - personal website and website.txt with explanation
